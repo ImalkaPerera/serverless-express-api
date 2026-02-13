@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-express-backend",
+	"name": "serverless-express-api",
 	"main": "src/index.ts",
 	"compatibility_date": "2026-02-12",
 	"observability": {
